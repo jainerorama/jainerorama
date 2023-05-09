@@ -6,7 +6,7 @@ Student Frontend Developer
 
 *   🌍  I'm based in Novi Sad,Serbia
 *   ✉️  You can contact me at [jocarralero@gmail.com](mailto:jocarralero@gmail.com)
-*   🧠  I'm learning in <a href="https://scrimba.com" target="_blank" style="color:#373F51;">Scrimba</a>
+*   🧠  I'm learning in <a href="https://scrimba.com">Scrimba</a>
 *   🤝  Ready to create something extraordinary? Let's collaborate on an exciting frontend project!
 *   ⚡  I love drawing
   
